@@ -19,3 +19,6 @@ If user enters a invalid city name, showing Alert
 Keeping the last search information for next time app launch results.
 
 Caching the image for weater
+
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-04-19 at 11 44 56](https://user-images.githubusercontent.com/131276818/233144135-0221e49e-0f79-4630-9309-c666487d972c.png)
